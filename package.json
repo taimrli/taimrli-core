@@ -1,0 +1,19 @@
+{
+  "name": "taimrli-core",
+  "version": "0.1.0",
+  "description": "taimrli core module",
+  "main": "js/index.js",
+  "typings": "js/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taimrli/taimrli-core.git"
+  },
+  "keywords": [
+    "typescript",
+    "atom"
+  ],
+  "license": "MIT"
+}
